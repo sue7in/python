@@ -10,6 +10,7 @@ dependencies:
     - pandas
     - thinc
     - lxml
+    - xlrd
     - tushare
     - pyecharts
 
