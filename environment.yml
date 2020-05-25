@@ -9,6 +9,7 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
+    - lxml
     - tushare
     - pyecharts
 
